@@ -1,0 +1,13 @@
+.menu-items li {
+	float: none;
+	border-bottom: 1px solid white;
+	border-right: none;
+}
+
+li:last-child {
+	border-bottom: none;
+}
+
+.menu-items {
+	display: block;
+}
